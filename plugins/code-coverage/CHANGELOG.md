@@ -1,5 +1,15 @@
 # @backstage/plugin-code-coverage
 
+## 0.1.17
+
+### Patch Changes
+
+- a5512851a0: Change represented test date from epoch to something more human friendly. Round test coverage to 2 decimal places.
+- Updated dependencies
+  - @backstage/core-components@0.7.3
+  - @backstage/theme@0.2.13
+  - @backstage/plugin-catalog-react@0.6.3
+
 ## 0.1.16
 
 ### Patch Changes
